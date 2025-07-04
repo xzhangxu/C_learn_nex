@@ -123,8 +123,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="7_3.cpp" />
+    <ClCompile Include="while7_3.cpp" />
     <ClCompile Include="if_for_7_1.cpp" />
+    <ClCompile Include="do_while_7_4.cpp" />
+    <ClCompile Include="function_7_5.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
