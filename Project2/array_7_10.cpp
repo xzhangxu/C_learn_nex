@@ -83,3 +83,24 @@
 ////	printf("%d\n", sz); 
 //	return 0;
 //}
+
+
+void pr_arr(int* arr) //打印数组
+{
+	int i;
+	for (i = 0; i < 9; i++)
+	{
+		printf("%d ", arr[i]);
+		if (i % 3 == 2) //每3个元素换行
+		{
+			printf("\n");
+		}
+	}
+}
+
+int main()
+{
+	int arr[9] = { 1,2,3,4,5,6,7,8,9 };
+	pr_arr(arr);
+
+}

@@ -1,0 +1,3 @@
+﻿  game.c
+C:\Users\Administrator\Desktop\c_learn\game_learn\game1\game.c(160,1): warning C4715: “pc_judge”: 不是所有的控件路径都返回值
+  game1.vcxproj -> C:\Users\Administrator\Desktop\c_learn\game_learn\game1\x64\Debug\game1.exe
